@@ -1,6 +1,5 @@
-# myrepo
-
-hi my name is chase
+my fisrt repo
+hi my name is chage
 echo "# Chasegwuap" >> README.md
 git init
 git add README.md
